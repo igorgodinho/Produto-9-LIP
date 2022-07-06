@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Montserrat:wght@200&display=swap');
+
+body {
+    background-color: #183222;
+    color: white;
+    margin: 0%;
+    padding-top: 16px;
+    font-family: 'Montserrat', monospace, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+header nav {
+    display: flex;
+    padding: 20px 0px 5px;
+    font-weight: 1000;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: auto;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+}
+
+header #home {
+    text-align: left;
+    font-size: 40px;
+}
+
+main {
+    background-color: #425e4c;
+}
+
+main h1 {
+    font-weight: 800;
+    padding: 20px;
+}
+
+main h3 {
+    font-weight: 800;
+    text-align: center;
+}
+
+main h4 {
+    text-align: center;
+    font-weight: 800;
+}
+
+main h2 {
+    text-align: center;
+    font-weight: 800;
+    padding-bottom: 25px;
+}
+
+main iframe {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+main p {
+    padding: 15px 0px;
+}
+
+main img {
+    padding: 20px 0px;
+    display: block;
+}
+
+main .img1 {
+    width: 50%;
+}
+
+main a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    font-size: 15px;
+    text-align: center;
+    margin: 12px 0px;
+    font-weight: 500;
+}
+
+#sobreNos {
+    padding: 100px;
+}
+
+#sobreNos h2 {
+    font-weight: 800;
+    font-size: 50px;
+}
+
+#scratch {
+    padding: 30px;
+}
